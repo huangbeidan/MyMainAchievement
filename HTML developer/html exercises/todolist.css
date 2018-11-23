@@ -1,0 +1,32 @@
+li{
+	border: 2px solid red;
+}
+
+div{
+	background: orange;
+}
+
+.completed{
+	background: pink;
+	text-decoration: underline;
+}
+
+li a{
+	color: red;
+}
+
+h4 + ul{
+	border: 4px solid yellow;
+}
+
+a[href = "http://www.google.com"]{
+	background: blue;
+}
+
+input[type="text"]{
+	background: green;
+}
+
+li:nth-of-type(even){
+	background: yellow;
+}
