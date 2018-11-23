@@ -1,0 +1,24 @@
+Wells-Engine Program
+
+Wells-Engine is an A.I portfolio management optimizer that gives clients specific investment advice tailoring to their own risk-aversion levels. Our goal is to maximize period return while protecting the downside risk when the market is volatile. 
+
+I lead the team to build, optimize and back-testing predictive financial models. Below is an explanation of the files attached:
+
+
+Main_StockPortfolio.xlsx: The formulated spreadsheet, the presentation of our work, includes all the ratios and indicators. 
+
+Ge_P_news.m: Matlab code to do the data engineering and build financial models
+
+Ge_Fall_puzzle.m: Research I have done at work
+
+Optimizer: Matlab code to use DCC-GARCH model to forecast future standard deviation
+
+Plot_SRvsPE.png: Visualization result of the portfolio management system
+
+plot_SRPE.py: Python code to do the plot and data featuring
+
+
+
+Find the project here:
+https://github.com/huangbeidan/MyMainAchievement/tree/master/Wells-Engine-Product
+
