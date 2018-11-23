@@ -1,0 +1,60 @@
+.hm-gradient {
+    background-image: linear-gradient(to top, #f3e7e9 0%, #e3eeff 99%, #e3eeff 100%);
+}
+.darken-grey-text {
+    color: #2E2E2E;
+}
+
+body{
+  padding-top: 70px;
+}
+
+.jumbotron{
+  color: #2c3e50;
+  background: #ecf0f1;
+  margin: 10px 10px 20px 10px;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+  color:white;
+}
+
+.navbar-inverse .navbar-brand{
+  color:white;
+}
+
+.navbar-inverse {
+  background: #2c3e50;
+  margin-bottom: 0px;
+}
+
+.jumbotron p{
+  text-align: center;
+}
+
+.jumbotron h1{
+  text-align: center;
+}
+
+.img-fluid{
+  height:192px;
+  margin: 6px auto auto 6px;
+}
+
+.card{
+  background: white;
+  margin: 10px auto;
+  padding: 20px;
+}
+
+.text-left{
+  padding-left: 20px;
+}
+
+.hoverable:hover{
+  box-shadow: 5px 5px lightgrey;
+  transition: 1s;
+}
+
+
+

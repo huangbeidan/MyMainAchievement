@@ -1,0 +1,15 @@
+.jumbotron p{
+            text-align: center;
+        }
+
+.jumbotron h1{
+            text-align: center;
+        }
+.thumbnail img{
+	width: 192px;
+	height: 200px;
+}
+
+ul{
+	height: 180px;
+}
