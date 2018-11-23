@@ -1,6 +1,7 @@
 # MyMainAchievement
 
 =========
+
 Hello! Welcome to my Github!
 
 My name is Beidan(Sophia), I am currently a master of Finance student at UCSD, but I've made up my mind to study for another master's degree for comuputer science. I know it seems a bit impetus, but I just love computer programming so much that I couldn't let it go.
@@ -11,11 +12,12 @@ Knowing how I am crazy about computer science and how valuable the opportunities
 
 If you are interested in me, please contact me at huangbeidan@gmail.com.
 
-### Capture
-[![image](https://github.com/Bruce-Chan/Bear-Maps/raw/master/screenshot/Capture.PNG)](#capture)
+### Java Project- Bear Map
+[![image](https://github.com/huangbeidan/MyMainAchievement/blob/master/asset/bearmap.gif)](#capture)
 
-### Place Searching and Query Autocomplete
-[![image](https://github.com/Bruce-Chan/Bear-Maps/raw/master/screenshot/queryAutocomplete.png)](#capture)
+### Machine Learning Project - Open AI
+[![image](https://github.com/huangbeidan/MyMainAchievement/blob/master/asset/openai.gif)](#capture)
 
-### shortest path finding
-[![image](https://github.com/Bruce-Chan/Bear-Maps/raw/master/screenshot/findShortestPath.png)](#capture)
+### Web Development Project - Todolist
+[![image](https://github.com/huangbeidan/MyMainAchievement/blob/master/asset/todolist.gif)](#capture)
+
