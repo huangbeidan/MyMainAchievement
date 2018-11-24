@@ -1,0 +1,2 @@
+https://www.googleapis.com/customsearch/v1?key=AIzaSyBocsN503B8KseIGe50x6ljCngV19WdaFI&cx=002464989021538692093:eithhs-8rfs&q=site: http://www.stevepoizner.com/&dateRestrict=m1
+https://www.googleapis.com/customsearch/v1?key=AIzaSyBocsN503B8KseIGe50x6ljCngV19WdaFI&cx=002464989021538692093:eithhs-8rfs&q=site:http://www.ricardolara.com/&dateRestrict=m2
