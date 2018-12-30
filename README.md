@@ -12,6 +12,11 @@ Knowing how I am crazy about computer science and how valuable the opportunities
 
 If you are interested in me, please contact me at huangbeidan@gmail.com.
 
+### Research Project- Web Crawling and Knowledge Graph Construction
+
+
+[![image](https://github.com/huangbeidan/MyMainAchievement/blob/master/asset/bearmap.gif)](#capture)
+
 ### Java Project- Bear Map
 [![image](https://github.com/huangbeidan/MyMainAchievement/blob/master/asset/bearmap.gif)](#capture)
 
