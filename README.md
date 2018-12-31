@@ -12,7 +12,7 @@ Knowing how I am crazy about computer science and how valuable the opportunities
 
 If you are interested in me, please contact me at huangbeidan@gmail.com.
 
-### Research Project- Web Crawling and Knowledge Graph Construction
+## Research Project- Web Crawling and Knowledge Graph Construction
 ### Function 1: src/com/news/NEWS_ONEStep
 1. Filter the original result.txt (1st url list) to delete unwanted links.
 2. Pull all the news from the filtered-url-list and save into txt file (in html format)
@@ -42,14 +42,13 @@ Output 2 - dictionary.csv
 Output 3 - Graph result - each number represents a particular NNPs
 [![image](https://github.com/huangbeidan/Spidernews/blob/master/assets/output33.png)](#capture)
 
+
+## Java Project- Bear Map
 [![image](https://github.com/huangbeidan/MyMainAchievement/blob/master/asset/bearmap.gif)](#capture)
 
-### Java Project- Bear Map
-[![image](https://github.com/huangbeidan/MyMainAchievement/blob/master/asset/bearmap.gif)](#capture)
-
-### Machine Learning Project - Open AI
+## Machine Learning Project - Open AI
 [![image](https://github.com/huangbeidan/MyMainAchievement/blob/master/asset/openai.gif)](#capture)
 
-### Web Development Project - Todolist
+## Web Development Project - Todolist
 [![image](https://github.com/huangbeidan/MyMainAchievement/blob/master/asset/todolist.gif)](#capture)
 
