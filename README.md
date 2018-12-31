@@ -53,10 +53,10 @@ Output 4 - Graph result - each number represents a particular NNPs
 
 ## Web Development Project- Content Management System Using PHP
 ### Main Functions: 
-1. User login/logout/sign up
+1. User login/logout/sign up & Password encrypting
 2. View all stocks pools/ Stocked selected by user IDs/ Upload stocks from file / Edit & Delete stocks via bulk options
 3. Dynamic stock charts 
-4. View, add or delete news posts & comments
+4. View, add or delete news posts & comments that are related by foreign keys in the database
 
 ## Content Management System using PHP - Overview
 [![image](https://github.com/huangbeidan/MyMainAchievement/blob/master/asset/admin.png)](#capture)
