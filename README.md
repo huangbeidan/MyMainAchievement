@@ -1,7 +1,5 @@
 # MyMainAchievement
 
-=========
-
 Hello! Welcome to my Github!
 
 My name is Beidan(Sophia), I am currently a master of Finance student at UCSD, but I've made up my mind to study for another master's degree for comuputer science. I know it seems a bit impetus, but I just love computer programming so much that I couldn't let it go.
