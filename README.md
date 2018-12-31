@@ -51,6 +51,21 @@ Output 4 - Graph result - each number represents a particular NNPs
 [![image](https://github.com/huangbeidan/Spidernews/blob/master/assets/output33.png)](#capture)
 
 
+## Web Development Project- Content Management System Using PHP
+### Main Functions: 
+1. User login/logout/sign up
+2. View all stocks pools/ Stocked selected by user IDs/ Upload stocks from file / Edit & Delete stocks via bulk options
+3. Dynamic stock charts 
+4. View, add or delete news posts & comments
+
+## Content Management System using PHP - Overview
+[![image](https://github.com/huangbeidan/MyMainAchievement/blob/master/asset/admin.png)](#capture)
+
+## Content Management System using PHP - Main Page
+Please login using the guest accout:
+Username: guest
+Password: 123456
+
 ## Java Project- Bear Map
 This is a web mapping application of berkeley.
 
@@ -65,4 +80,3 @@ This application can handle features such as query autocomplete responses, place
 
 ## Web Development Project - Todolist
 [![image](https://github.com/huangbeidan/MyMainAchievement/blob/master/asset/todolist.gif)](#capture)
-
