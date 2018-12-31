@@ -69,6 +69,21 @@ http://wealth-engine.com/we
 Username: guest
 Password: 123456
 
+## Captone Project (M-Finance Graduation Project): 
+### Information Processing Pipe Lines to Detect Trading Signals From 10K Reports
+1. Write Python/MySQL codes to fetch 10Q files from SEC websites and put them into right directory (e.g.2009Q1)
+2. Clean up and extract sections (e.g. Item2 MD&A) from the original xml files using Beautiful Soup and DIY- functions
+3. Applying and modifying Nucleus APIs to build topic models so as to get exposure and sentiment scores 
+4. Conduct regression analysis and cross validation to dispose noisy topics and keep soporific topics
+5. Intellectively evaluate topics & sentiment and give investment advice when new reports come in
+
+Output 1 - topic_exposure.csv 
+[![image](https://github.com/huangbeidan/MyMainAchievement/blob/master/asset/capstone1.png)](#capture)
+
+Output 2 - Final Presentation (Complete WorkFlow)
+
+https://github.com/huangbeidan/MyMainAchievement/blob/master/asset/Team%20Xi_final%20pre.pptx
+
 ## Java Project- Bear Map
 This is a web mapping application of berkeley.
 
