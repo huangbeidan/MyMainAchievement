@@ -63,6 +63,9 @@ Output 4 - Graph result - each number represents a particular NNPs
 
 ## Content Management System using PHP - Main Page
 Please login using the guest accout:
+
+http://wealth-engine.com/we
+
 Username: guest
 Password: 123456
 
