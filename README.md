@@ -11,6 +11,8 @@ Knowing how I am crazy about computer science and how valuable the opportunities
 If you are interested in me, please contact me at huangbeidan@gmail.com.
 
 ## Research Project- Web Crawling and Knowledge Graph Construction
+Github repo: https://github.com/huangbeidan/SpiderNews
+
 ### Function 1: Spider/src/com/example/CSEOneStep.java
 1. Read rawurl.txt seed file and generate requests
 2. Use Google Custom Search to get the most updated content of seed websites (e.g. 1 day);
