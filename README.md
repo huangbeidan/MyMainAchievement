@@ -10,6 +10,16 @@ Knowing how I am crazy about computer science and how valuable the opportunities
 
 If you are interested in me, please contact me at huangbeidan@gmail.com.
 
+## Congressional Documents Parser - San Diego Supercomputer Center
+### DIY XML Parser
+Main function: Convert a hearing document (txt format) to a more semantic XML document, thus making it more structured. 
+
+Output: (Before + After)
+[![image](https://github.com/huangbeidan/Spider/raw/master/assets/con1.png)](#capture)
+[![image](https://github.com/huangbeidan/Spider/raw/master/assets/con2.png)](#capture)
+
+
+
 ## Social Media API Wrapper Project- San Diego Supercomputer Center
 
 ### Wrapper1: Reddit API Wrapper
