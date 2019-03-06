@@ -123,24 +123,6 @@ Output 3 - dictionary.csv
 Output 4 - Graph result - each number represents a particular NNPs
 [![image](https://github.com/huangbeidan/Spidernews/blob/master/assets/output33.png)](#capture)
 
-## Social Media API Wrapper Project- San Diego Supercomputer Center
-Github repo: https://github.com/huangbeidan/Reddit_Wrapper
-
-### Function 1: Spider/src/main/java/example/Wrapper.java
-1. Name a thread of Reddit as input
-2. Grab all conversations of the thread with depth preset (submissions, comments, etc.)
-2. Save the results into the database
-3. More Features could be added
-
-Output 1 - SUBMISSION TABLE (submission id + a list of comment id <Depth First Search>)
-[![image](https://github.com/huangbeidan/Spider/blob/master/assets/output44.png)](#capture)
-
-Output 2 - FEATURES TABLE (submission id + comment id + selected features)
-[![image](https://github.com/huangbeidan/Spider/blob/master/assets/output55.png)](#capture)
-
-Output 3 - ALLCOMMENTS TABLE (submission details + all comments combined <ordered by DFS>)
-[![image](https://github.com/huangbeidan/Spider/blob/master/assets/output66.png)](#capture)
-
 ## Web Development Project- Content Management System Using PHP
 ### Main Functions: 
 1. User login/logout/sign up & Password encrypting
